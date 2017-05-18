@@ -1,4 +1,19 @@
 {
-  "name": "actual-foundation",
-  "repository": "git@github.com:j24/backend-foundation-dokime.git"
+  "name": "@j24/backend-foundation-dokime",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j24-test/backend-foundation-dokime.git"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/j24-test/backend-foundation-dokime/issues"
+  },
+  "homepage": "https://github.com/j24-test/backend-foundation-dokime#readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
 }

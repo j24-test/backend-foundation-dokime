@@ -1,3 +1,4 @@
 {
-  "name": "scaffold-foundation"
+  "name": "scaffold-foundation",
+  "replaceValue": "<APP_NAME>"
 }
